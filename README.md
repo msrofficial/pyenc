@@ -1,4 +1,3 @@
-```markdown
 # Python File Obfuscator
 
 A Python script that obfuscates Python source code files using marshal serialization to protect intellectual property.
@@ -77,5 +76,3 @@ This tool is intended for educational purposes and protecting intellectual prope
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
