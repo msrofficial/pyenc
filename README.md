@@ -14,8 +14,8 @@ A Python script that obfuscates Python source code files using marshal serializa
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/msrofficial/python-obfuscator.git
-cd python-obfuscator
+git clone https://github.com/msrofficial/pyenc.git
+cd pyenc
 ```
 
 2. Ensure you have Python 3.x installed:
