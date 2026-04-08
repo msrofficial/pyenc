@@ -32,7 +32,7 @@ pip install requests
 
 Run the obfuscator:
 ```bash
-python3 enc.py
+python3 pyenc.py
 ```
 
 Follow the on-screen prompts:
